@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="icon" href="images/favicon.png" type="image/png">
+	<title >Swing privacy policy</title>
+</head>
+<body>
+
+<div style="min-width:100px; max-width:800px;margin:0 auto;">
+		<h1 style="text-align:center;">Swing</h1>
+		
+		<h3 style="text-align:center;">Privacy policy</h3> 
+    
+		IP (neatcodingZP) built the Swing app as an Ad Supported app. This SERVICE is provided by IP (neatcoding) at no cost and is intended for use as is.</p>
+		<p style="content-align:center;">This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</p>
+		<p style="content-align:center;">If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.</p>
+		
+    p style="content-align:center;">At the moment, NO user information is collected with the app.</p>
+    
+    <!-- 
+    <p style="content-align:center;">The information that is collected can be divided into two groups:</p>
+		<p style="content-align:center;">1)	The information that is collected by Unity corporation.</p>
+		<p style="content-align:center;">2)	The unformation that is collected by us the developers of the Robot Colony game.</p>
+		<p style="content-align:center;"><b>Information that is collected by Unity</b></p>
+		<p style="content-align:center;">The game is created with Unity engine, uses Unity Ads and Unity Analytics. Here is the Unity Privacy Policy that describes what data is collected by Unity: <a href="https://unity3d.com/legal/privacy-policy">https://unity3d.com/legal/privacy-policy. </a>Please read the parts "I play a game built with Unity software, what should I know?", "I play a game that uses Unity Analytics, what do I need to know?", "I received an ad from Unity Ads, what do I need to know?"</p>
+		<p style="content-align:center;"><b>Information that is collected by us the developers</b></p>
+		<p style="content-align:center;">We use the Unity Analytics tool to gather and analyze the in-game behavior of the players, such as the success rate of different levels. This data is not personalized, we can only see the aggregate data (like, today level 2 was completed 300 times and failed 200 times). This data cannot be linked to a particular person. We use this data only to make the game experience better. We don't share this data with third parties. </p>
+		
+    -->
+    
+    <p style="content-align:center;">Changes to This Privacy Policy </p>
+		<p style="content-align:center;">We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. The changes are effective immediately after they are posted on this page.</p>
+		<p style="content-align:center;">If you have any questions or suggestions about our Privacy Policy, please contact me at neatcoding@gmail.com.</p>
+	</div >
+
+</body>
+</html>
